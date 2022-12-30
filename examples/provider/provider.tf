@@ -1,3 +1,3 @@
-provider "scaffolding" {
+provider "protorelease" {
   # example configuration here
 }

@@ -1,3 +1,3 @@
-resource "scaffolding_resource" "example" {
+resource "protorelease_resource" "example" {
   sample_attribute = "foo"
 }
